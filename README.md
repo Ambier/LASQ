@@ -1,2 +1,2 @@
 # LASQ
-The Sorce Code of LLM-powered Auto-grading of Subjective Questions for Intelligent Enterprise Management
+The Sorce Code of "Towards Human-Like Grading: A Unified LLM-Enhanced Framework for Subjective Question Evaluation"
