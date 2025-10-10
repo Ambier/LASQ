@@ -1,5 +1,6 @@
 # LASQ
-The Sorce Code of "Towards Human-Like Grading: A Unified LLM-Enhanced Framework for Subjective Question Evaluation"
+The Sorce Code of "Towards Human-Like Grading: A Unified LLM-Enhanced Framework for Subjective Question Evaluation(https://arxiv.org/abs/2510.07912)"
+ 
 
 # Structure
 
