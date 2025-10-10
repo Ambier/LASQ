@@ -1,6 +1,7 @@
 # LASQ
 The Sorce Code of "[Towards Human-Like Grading: A Unified LLM-Enhanced Framework for Subjective Question Evaluation](https://arxiv.org/abs/2510.07912)"
  
+this paper has been accepted by [ecai2025](https://ecai2025.org/accepted-papers/)
 
 # Structure
 
